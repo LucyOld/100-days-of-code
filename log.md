@@ -15,6 +15,7 @@ Not much today other than a tweet of commitment to the challenge and a summary o
 **Today's Progress**: Exercises on FreeCodeCamp + jQuery project
 
 **Thoughts** I continued doing the jQuery exercises and expanded my knowledge further. it was also a great refresher for animating elements. I then built a basic tribute page on Audrey Heburn as practice for Bootstrap skills.
+
 **Links to Work**
 Not much today other than a tweet of commitment to the challenge and a summary of what I have done! 
 [Audrey Hepburn Tribute Page on CodePen](https://codepen.io/LucyOld/pen/VyWEvK)
